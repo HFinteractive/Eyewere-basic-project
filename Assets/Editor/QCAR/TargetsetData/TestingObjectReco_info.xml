@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="3.4">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2015-05-14 17:38:13" name="SamsungCharger2" targetId="c9ced86eb7244b49ae867fe2d0b50a5b" version="2.0" />
+  </TargetSet>
+</QCARInfo>
